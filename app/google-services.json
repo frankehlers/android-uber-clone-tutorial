@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654419624462",
+    "firebase_url": "https://uberclonetutorial.firebaseio.com",
+    "project_id": "uberclonetutorial",
+    "storage_bucket": "uberclonetutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654419624462:android:77896655699e8f04",
+        "android_client_info": {
+          "package_name": "com.example.androiduberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654419624462-qmb6osq39qpg32e3kam94jtm3ujbr7c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androiduberclone",
+            "certificate_hash": "b457823f4e17ac82453cf8dce5e7aefe7035a870"
+          }
+        },
+        {
+          "client_id": "654419624462-6ue9m21659qgm9rol71brmmng9gfie60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiok9dgHan53Oc4aMrCkbEqd-NgOY27J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654419624462-6ue9m21659qgm9rol71brmmng9gfie60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
